@@ -1,0 +1,54 @@
+{
+    "pointsArray":[
+        {
+            "pointName":"House",
+	        "latitude":42.906949,
+            "longitude":-85.664062
+        },
+        {
+            "pointName":"Jaycee Disc Golf Course",
+	        "latitude":42.861374,
+            "longitude":-85.635254
+        },
+        {
+            "pointName":"Godwin Heights High School",
+	        "latitude":42.899508,
+            "longitude":-85.667402
+        },
+        {
+            "pointName":"Old Farm Disc Golf Course",
+	        "latitude":42.875629,
+            "longitude":-85.606914
+        },
+        {
+            "pointName":"John Ball Zoo",
+	        "latitude":42.961954,
+            "longitude":-85.704659
+        },
+        {
+            "pointName":"Johnson Disc Golf Course",
+	        "latitude":42.921005,
+            "longitude":-85.768086
+        },
+        {
+            "pointName":"Cascade Disc Golf Course",
+	        "latitude":42.893737,
+            "longitude":-85.503828
+        },
+        {
+            "pointName":"Riverside Disc Golf Course",
+	        "latitude":43.006370,
+            "longitude": -85.668757
+        },
+        {
+            "pointName":"Ken-O-Sha Bike Trail",
+	        "latitude":42.905257,
+            "longitude": -85.636732
+        },
+        {
+            "pointName":"White Pine Trail",
+	        "latitude":42.999218,
+            "longitude":-85.670599
+        }
+    ]
+}
